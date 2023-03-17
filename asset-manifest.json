@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sweet-queez/static/css/main.073c9b0a.css",
+    "main.js": "/sweet-queez/static/js/main.fc9a365b.js",
+    "static/js/787.d1938fb0.chunk.js": "/sweet-queez/static/js/787.d1938fb0.chunk.js",
+    "static/media/logo.svg": "/sweet-queez/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sweet-queez/index.html",
+    "main.073c9b0a.css.map": "/sweet-queez/static/css/main.073c9b0a.css.map",
+    "main.fc9a365b.js.map": "/sweet-queez/static/js/main.fc9a365b.js.map",
+    "787.d1938fb0.chunk.js.map": "/sweet-queez/static/js/787.d1938fb0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fc9a365b.js"
+  ]
+}
